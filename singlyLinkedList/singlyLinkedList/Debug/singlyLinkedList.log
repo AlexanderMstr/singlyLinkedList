@@ -1,3 +1,5 @@
 ﻿  Source.cpp
-D:\singlyLinkedList\singlyLinkedList\singlyLinkedList\Source.cpp(108): warning C4715: List<int>::operator[]: значение возвращается не при всех путях выполнения
+D:\singlyLinkedList\singlyLinkedList\singlyLinkedList\Source.cpp(199,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\singlyLinkedList\singlyLinkedList\singlyLinkedList\Source.cpp(176,6): warning C4101: value5: неиспользованная локальная переменная
+D:\singlyLinkedList\singlyLinkedList\singlyLinkedList\Source.cpp(162): warning C4715: List<int>::operator[]: значение возвращается не при всех путях выполнения
   singlyLinkedList.vcxproj -> D:\singlyLinkedList\singlyLinkedList\Debug\singlyLinkedList.exe
